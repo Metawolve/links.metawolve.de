@@ -604,3 +604,10 @@
 	--button-background:#0B5CFF;
   --button-border:1px solid #FFFFFF;
 }
+
+/* X */
+.button-twitter {
+	--button-text:#FFFFFF;
+	--button-background:#08a0e9;
+	--button-border:1px solid #FFFFFF;
+}
